@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi, I'm Ashish 👋
 
-<!--
-**dmashishpal/dmashishpal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm currently learning and building projects in Web Development, AI-based tools, and automation.  
+This repo README appears on my profile, so here's a quick snapshot of what I'm working toward.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Current Focus
+- Improving my Git & GitHub workflow
+- Learning JavaScript & Python
+- Building practical real-world projects
+
+---
+
+### 🧠 Skills I'm Learning
+- HTML, CSS, JavaScript
+- Git / GitHub
+- Python basics
+
+---
+
+### 📌 What You'll Find In My Repositories
+- Small learning projects
+- Experiments with AI tools
+- Personal projects I'm growing over time
+
+---
+
+### 🎯 Goals for 2025
+- Become confident in full-stack development
+- Build and publish at least 10 useful projects
+- Contribute to open source
+
+---
+
+### 💬 Connect With Me
+(LinkedIn, email, or anything you actually want to share)
+
+
